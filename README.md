@@ -69,7 +69,7 @@ By following this tutorial, you will be able to:
 - Instance class: db.t2.micro
 - Public access: Yes
 - Master username: admin
-- Master password: Sule_1
+- Master password: <YOUR_PASSWORD_HERE>
 - Initial database name: sule
 ```
 
